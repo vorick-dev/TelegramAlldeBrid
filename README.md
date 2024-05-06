@@ -17,4 +17,7 @@ Transform URL with AlldeBrid using a Telegram Group
 4. Run the bot with `python3 main.py`
 5. Then you have to run the script and it will keep running until you stop it.
 
+## Usage
+To use the bot, just post a link in the group and you will receive the converted link.
+
 
