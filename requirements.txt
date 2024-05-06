@@ -1,0 +1,2 @@
+requests~=2.28.2
+Telethon~=1.27.0
